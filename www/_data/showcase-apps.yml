@@ -87,3 +87,10 @@
     url: http://www.graded.us
     description: >
         The easiest and prettiest way to check your grades from Home Access Center (HAC)
+
+-   name: FireDragontoIX
+    image: FireDragontoIX.png
+    url: https://play.google.com/store/apps/details?id=com.apptoix.firedragontoix
+    description: >
+        FireDragontoIX is an app with a beautiful and modern design to learn Chinese,   
+        including a Phrase book and HSK vocabulary.
